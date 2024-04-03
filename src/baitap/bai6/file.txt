@@ -1,0 +1,2 @@
+Java là một ngôn ngữ lập trình hướng đối tượng, JVM là viết tắt của Java Vitrial Machine
+hay còn được gọi là Máy ảo Java
